@@ -17,7 +17,7 @@ Easy-to-use UI built with Streamlit
 Ensure you have the following installed:
 - Python 3.12
 - pip
-- Virtual environment (optional but recommended)
+- Virtual environment ( recommended)
 
 ### Steps
 1. Clone the repository:`
