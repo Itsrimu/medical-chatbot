@@ -1,4 +1,4 @@
-# medical-chatbot
+# Medical-chatbot
 
 
 Medibot Chat is an AI-powered chatbot that helps users with health-related queries. It utilizes a retrieval-based question-answering system powered by FAISS for vector search and Hugging Face models for text generation.
