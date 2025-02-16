@@ -5,7 +5,7 @@ Medibot Chat is an AI-powered chatbot that helps users with health-related queri
 
 ## Features
 AI-powered chat for health-related queries
-Retrieval-based question answering** using FAISS
+Retrieval-based question answering using FAISS
 Hugging Face modelsfor intelligent responses
 Custom prompt template to maintain response accuracy
 Chat history to maintain conversation context
@@ -20,7 +20,7 @@ Ensure you have the following installed:
 - Virtual environment ( recommended)
 
 ### Steps
-1. Clone the repository:`
+1. Clone the repository:
 
 2. Create and activate a virtual environment:
    ```sh
