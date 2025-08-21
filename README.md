@@ -25,7 +25,7 @@ Ensure you have the following installed:
 2. Create and activate a virtual environment:
    ```sh
    python -m venv medibot
-   venv\Scripts\activate
+   medibot\Scripts\activate
    ```
 
 3. Install dependencies:
